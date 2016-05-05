@@ -1,4 +1,4 @@
-# Prova de Estágio
+# Prova de Estagio
 ##### SEIT/COTIN/INTERLEGIS - Brasília, DF - Abril 2016.
 
 GitHub é um Serviço de Web Hosting Compartilhado para projetos que usam o controle de versionamento Git. É uma ótima ferramenta de desenvolvimento e de compartilhamento de código. 
@@ -17,13 +17,15 @@ Com o fim de contribuir, é necessário, antes de tudo, que o repositório seja 
 
 ### Ítem b (2 pontos)
 
-Percebeu que faltou um acento na palavra `Estagio` no início deste texto? Faça a correção e envie-a ao GitHub. Em seguida, envie-a de volta a este repositório.
+Percebeu que faltou um acento na palavra `Estagio` no início deste texto? Faça a correção e envie-a a este repositório. 
 
 ##### Dicas de palavras chave: `commit`, `push`, `branch`, `pull request`.
 
+(`Fork` e `Pull Request` são opcionais)
+
 ===
 
-### Ítem c (2 pts)
+### Ítem c (2 pontos)
 
 Sabemos que a vaga de estágio não é para programadores. Porém, desenvolver soluções é essencial para qualquer pessoa que deseja entrar no mundo do DevOps*.
 
@@ -33,7 +35,7 @@ Sabemos que a vaga de estágio não é para programadores. Porém, desenvolver s
 
 Utilizando a API eternnoir/pyTelegramBotAPI, [disponível aqui](https://github.com/eternnoir/pyTelegramBotAPI), faça as devidas correções no bot para que ele funcione e o execute, utilizando o comando 
 ```
-python3 bot.py
+python3 bot.py 'Nome do candidato'
 ```
 
 ##### Atenção: Não troque o ID do BOT nem o ID de destino da mensagem.
