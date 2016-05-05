@@ -19,9 +19,9 @@ Com o fim de contribuir, é necessário, antes de tudo, que o repositório seja 
 
 Percebeu que faltou um acento na palavra `Estagio` no início deste texto? Faça a correção e envie-a a este repositório. 
 
-##### Dicas de palavras chave: `commit`, `push`, `branch`, `pull request`.
+##### Dicas de palavras chave: `commit`, `push`, `branch`, `fork`, `pull request`.
 
-(`Fork` e `Pull Request` são opcionais)
+_(`Branch`, `fork` e `pull request` são opcionais)_
 
 ===
 
@@ -38,6 +38,6 @@ Utilizando a API eternnoir/pyTelegramBotAPI, [disponível aqui](https://github.c
 python3 bot.py 'Nome do candidato'
 ```
 
+###### O uso de `Python` ou `Python3` fica a critério do candidato.
+
 ##### Atenção: Não troque o ID do BOT nem o ID de destino da mensagem.
-
-
